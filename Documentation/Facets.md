@@ -1,4 +1,5 @@
 # Faceting
+Hello test doc
 
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
 
